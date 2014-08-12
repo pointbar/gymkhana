@@ -1,5 +1,3 @@
-<template name="post_informer">
-
 # Les indics
 
 ## Objectif
@@ -31,5 +29,3 @@ Ensuite, avec les exemples fournis, elle définit la façon de la rendre visible
 ## Exemple
 
 ## Origine
-
-</template>

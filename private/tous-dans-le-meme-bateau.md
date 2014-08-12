@@ -1,5 +1,3 @@
-<template name="post_boat">
-
 # Tous dans le même bateau
 
 ## Objectif
@@ -38,5 +36,3 @@ En option, les participants peuvent prioriser les risques placés sur les ancres
 
 ## Origine
 C'est une adaptation de Speed Boat, un des [Innovation games](http://innovationgames.com/speed-boat/)
-
-</template>

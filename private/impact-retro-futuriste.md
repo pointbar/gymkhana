@@ -1,5 +1,3 @@
-<template name="post_retro">
-
 # Impacts rétro-futuristes
 
 ## Objectifs
@@ -44,5 +42,3 @@ Atelier adapté de Souvenir du futur, un des Innovation Games.
 
 ## Option
 Dans l'atelier Souvenir du futur classique, le but est d'obtenir des critères de succès. On peut, en plus de s'intéresser aux impacts positifs, identifier aussi les impacts négatifs.
-
-</template>

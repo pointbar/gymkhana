@@ -1,5 +1,3 @@
-<template name="post_pitch">
-
 # Pitch de l'ascenseur
 
 ## Objectif
@@ -41,5 +39,3 @@ On peut le faire en plusieurs groupes, chacun présentant son pitch.
 
 ## Origine
 Cet atelier est dérivé d'un exercice utilisé en marketing, le test de l'ascenseur (Moore 1991), consistant à présenter à son chef une idée, dans le temps limité où on est avec lui dans l'ascenseur.
-
-</template>

@@ -1,5 +1,3 @@
-<template name="post_debate">
-
 # Débat anglo-saxon
 
 ## Objectif
@@ -25,5 +23,3 @@ Environ 20 minutes.
 Problème - Action (un verbe) - Résultat (un complément)
 
 ## Origine
-
-</template>

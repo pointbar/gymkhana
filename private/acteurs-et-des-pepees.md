@@ -1,5 +1,3 @@
-<template name="post_actor">
-
 # Des acteurs et des pépées
 
 ## Objectifs
@@ -52,5 +50,3 @@ On définit collectivement les acteurs ou parties prenantes à satisfaire en pri
 On identifie les premiers utilisateurs (early adopters)
 
 Le résultat est mis sur le canevas.
-
-</template>

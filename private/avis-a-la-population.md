@@ -1,5 +1,3 @@
-<template name="post_public_notice">
-
 # Avis à la population
 
 ## Objectifs
@@ -54,5 +52,3 @@ Affiches sur poubelles
 
 ## Origine
 L'atelier est une variante de la boite du produit (les produits visés ne sont plus présentés en boîte depuis longtemps), une pratique ancienne et répandue de marketing, qu'on retrouve dans le livre Innovation Games.
-
-</template>

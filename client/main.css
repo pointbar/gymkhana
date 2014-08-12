@@ -3,12 +3,18 @@ body {
   font-style: normal;
 }
 
+nav.cards-list {
+  opacity: .7;
+  margin-top: 40px;
+}
+
 div#card {
   font-family: 'Quattrocento Sans', sans-serif;
   font-weight: 100;
   font-size: 22px;
   line-height: 1.5;
   color: rgba(0,0,0,0.8);
+  margin-bottom: 30px;
 }
 
 div#card h1, div#card h2, div#card h3 {

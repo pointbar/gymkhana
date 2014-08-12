@@ -1,5 +1,3 @@
-<template name="post_soluces">
-
 # Le défi des soluces
 
 ## Objectif
@@ -45,5 +43,3 @@ A partir des solutions identifiées, les participants définissent collectivemen
 
 ## Option
 On peut compter les points pour chaque équipe.
-
-</template>

@@ -1,5 +1,3 @@
-<template name="post_canvas">
-
 # Canevas Gymkhana
 
 Un canevas Gymkhana est une représentation condensée des informations nécessaires et suffisantes pour démarrer une expérimentation d'une application citoyenne.
@@ -35,5 +33,3 @@ Une idée ne suffit pas, et la vie est trop courte pour réaliser un produit don
 L'approche proposée par Ash Maurya est très orientée application commerciale.
 
 Pour Gymkhana, notre objectif est différent, il vise le bien commun. Ce n'est pas d'avoir des clients, mais des utilisateurs. Les sources de revenu et la concurrence ne sont pas considérées avec la même importance.
-
-</template>

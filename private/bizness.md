@@ -1,5 +1,3 @@
-<template name="post_bizness">
-
 # Bizness
 
 ## Objectif
@@ -30,5 +28,3 @@ Tous ensemble, les participants réfléchissent au point d'équilibre (en terme 
 ## Exemple
 
 ## Origine
-
-</template>

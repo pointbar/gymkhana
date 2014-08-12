@@ -1,0 +1,5 @@
+# GYMKHANA
+
+## Copyright & License
+
+MIT.

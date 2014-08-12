@@ -1,5 +1,3 @@
-<template name="post_canal">
-
 # Canal du midi
 
 ## Objectif
@@ -31,5 +29,3 @@ On relie la péniche avec les post-it, un à un. Pour chacun l'épaisseur du tra
 ## Exemple
 
 ## Origine
-
-</template>
