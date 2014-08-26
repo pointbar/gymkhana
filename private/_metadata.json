@@ -1,14 +1,14 @@
 {
   "1": {"tag": "canevas", "title": "Canvas Gymkhana", "slug": "canvas"},
-  "2": {"tag": 1, "title": "Des acteurs et des pépées", "slug": "acteurs-et-des-pepees"},
-  "3": {"tag": 2, "title": "Impacts rétro-futuristes", "slug": "impact-retro-futuriste"},
-  "4": {"tag": 3, "title": "Avis à la population", "slug": "avis-a-la-population"},
-  "5": {"tag": 3, "title": "Débat à l\"anglo-saxon", "slug": "debat-anglo-saxon"},
-  "6": {"tag": 4, "title": "Défi des soluces", "slug": "defi-des-soluces"},
-  "7": {"tag": 5, "title": "Canal du midi", "slug": "canal-du-midi"},
+  "2": {"tag": "1", "title": "Des acteurs et des pépées", "slug": "acteurs-et-des-pepees"},
+  "3": {"tag": "2", "title": "Impacts rétro-futuristes", "slug": "impact-retro-futuriste"},
+  "4": {"tag": "3", "title": "Avis à la population", "slug": "avis-a-la-population"},
+  "5": {"tag": "3", "title": "Débat à l\"anglo-saxon", "slug": "debat-anglo-saxon"},
+  "6": {"tag": "4", "title": "Défi des soluces", "slug": "defi-des-soluces"},
+  "7": {"tag": "5", "title": "Canal du midi", "slug": "canal-du-midi"},
   "8": {"tag": "6, 7", "title": "Bizness", "slug": "bizness"},
-  "9": {"tag": 8, "title": "Les indics", "slug": "les-indics"},
-  "10": {"tag": 9, "title": "Exploitons donc", "slug": "exploitons-donc"},
+  "9": {"tag": "8", "title": "Les indics", "slug": "les-indics"},
+  "10": {"tag": "9", "title": "Exploitons donc", "slug": "exploitons-donc"},
   "11": {"tag": "canevas", "title": "Pitch ascenceur", "slug": "pitch-ascenseur"},
   "12": {"tag": "canevas", "title": "Tous dans le même bateau", "slug": "tous-dans-le-meme-bateau"}
 }
