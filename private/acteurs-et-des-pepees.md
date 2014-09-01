@@ -1,7 +1,8 @@
 # Des acteurs et des pépées
 
 ## Objectifs
-Cet atelier est utilisé dans le cadre de Gymkhana pour aider les participants à remplir la partie 1 du canevas, c'est à dire l'identification des acteurs et des parties-prenantes (cette partie est appelée "customer segments, early adopters" dans Running Lean).
+Cet atelier est utilisé dans le cadre de Gymkhana pour aider les participants à remplir la partie 1 du canevas.
+Cela concerne l'identification des acteurs et des parties-prenantes (cette partie est appelée *customer segments, early adopters* dans Running Lean).
 
 Un acteur est un citoyen dont la vie peut être impactée positivement par la réalisation de l'idée proposée.
 Un acteur, cela peut aussi être un rôle d'une personne dans un organisme public ou une collectivité. C'est une partie-prenante qui n'est pas forcément un utilisateur.
@@ -33,7 +34,8 @@ On cherche à répondre à la question "qui ?"
 * avec qui on peut arriver au but ?
 * qui supporte l'idée ?
 
-Si l'idée fait clairement référence à une application, attention à éviter l'acteur appelé "utilisateur", qui n'apporte rien.
+Si l'idée fait clairement référence à une application, attention à éviter l'acteur appelé "utilisateur", qui n'apporte rien de précis sur son rôle.
+Il convient d'avoir une segmentation plus poussée à ce niveau-là.
 
 ### Deuxième partie
 On représente une matrice influence / impact sur un paperboard.
@@ -47,6 +49,13 @@ On demande aux participants d'y positionner les post-it.
 ### Synthèse
 On définit collectivement les acteurs ou parties prenantes à satisfaire en priorité.
 
-On identifie les premiers utilisateurs (early adopters)
+On identifie les premiers utilisateurs (*early adopters*).
 
 Le résultat est mis sur le canevas.
+
+### Origine
+L'origine de la première partie remonte à loin avec les *uses-cases*.
+La deuxième partie s'inspire de *stakeholder analysis* dans le livre Gamestorming.
+
+### Option
+Remplacer la deuxième partie par un diagramme de contexte en positionnant les acteurs plus ou moins loin du centre selon leur importance.
