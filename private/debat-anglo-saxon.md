@@ -21,5 +21,3 @@ Environ 20 minutes.
 
 ## Déroulement
 Problème - Action (un verbe) - Résultat (un complément)
-
-## Origine

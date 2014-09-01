@@ -20,12 +20,17 @@ Environ 20 minutes, un peu plus s'il y a plusieurs groupes.
 ## Déroulement
 
 ### Première partie
-On dessine une péniche (on peut se contenter d'un cercle) au centre de la feuille. On demande aux participants d'identifier les canaux de communication possibles pour accéder aux "early adopters".
+On dessine une péniche (on peut se contenter d'un cercle) au centre de la feuille.
+
+On demande aux participants d'identifier les canaux de communication possibles pour accéder aux *early adopters*.
 Pour chaque moyen identifié, on crée un post-it et on le dispose autour de la péniche.
 
 ### Deuxième partie
-On relie la péniche avec les post-it, un à un. Pour chacun l'épaisseur du trait (la largeur du canal) donne une idée relative de l'importance du canal par rapport aux autres.
+On relie la péniche avec les post-it, un à un.
 
-## Exemple
+Pour chacun l'épaisseur du trait (la largeur du canal) donne une idée relative de l'importance du canal par rapport aux autres.
+
+Les canaux les plus importants sont reportés sur le canevas.
 
 ## Origine
+Inspiré de Spider Web.

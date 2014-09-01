@@ -37,9 +37,11 @@ Le jeu continue jusqu'à épuisement des cartes défi.
 ### Troisième partie : top 3
 A partir des solutions identifiées, les participants définissent collectivement les 3 qui leur paraissent les plus importantes.
 
+On peut utiliser le *dot voting* ou comme sur la photo ci-dessous, une comparaison 2 à 2 (Vision 10/10).
+
 ## Exemple
 
 ![bidouille](/soluces.jpg)
 
 ## Option
-On peut compter les points pour chaque équipe.
+On peut compter les points pour chaque équipe et suivre le score pendant le défi, pour rendre plus ludique.

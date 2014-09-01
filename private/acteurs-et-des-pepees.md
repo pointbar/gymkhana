@@ -46,16 +46,16 @@ On demande aux participants d'y positionner les post-it.
 
 ![acteurs et pépées](/acteurs.png)
 
-### Synthèse
+## Synthèse
 On définit collectivement les acteurs ou parties prenantes à satisfaire en priorité.
 
 On identifie les premiers utilisateurs (*early adopters*).
 
 Le résultat est mis sur le canevas.
 
-### Origine
+## Origine
 L'origine de la première partie remonte à loin avec les *uses-cases*.
 La deuxième partie s'inspire de *stakeholder analysis* dans le livre Gamestorming.
 
-### Option
+## Option
 Remplacer la deuxième partie par un diagramme de contexte en positionnant les acteurs plus ou moins loin du centre selon leur importance.

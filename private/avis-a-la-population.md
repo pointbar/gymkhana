@@ -2,6 +2,7 @@
 
 ## Objectifs
 Cet atelier est utilisé dans le cadre de Gymkhana pour aider les participants à remplir la partie 3 du canevas, c'est à dire la proposition unique de valeur.
+
 Le résultat de l'atelier est une affiche avec des informations qui peuvent aussi permettre d'obtenir des idées de solution (partie 4), avec des fonctionnalités, et aussi, peut-être selon les participants, l'avantage significatif (partie 9).
 
 ## Ce qu'il faut pour démarrer
@@ -52,3 +53,6 @@ Affiches sur poubelles
 
 ## Origine
 L'atelier est une variante de la boite du produit (les produits visés ne sont plus présentés en boîte depuis longtemps), une pratique ancienne et répandue de marketing, qu'on retrouve dans le livre Innovation Games.
+
+## Option
+Fournir des magazines, des ciseaux et de la colle pour que les participants y trouvent de quoi agrémenter leur affiche.
